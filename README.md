@@ -1,5 +1,5 @@
 # 🔰 ZYGEN PIXEL MAPS
 > ⚠ Not recommended for professional uses.
 
-# Print Screen
+# See about
 ![image](https://i.imgur.com/3hyswqI.png)
